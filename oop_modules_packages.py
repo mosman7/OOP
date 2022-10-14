@@ -47,7 +47,7 @@ print(add(2, 7))                           #adds the 2 values
 
 
 # create a function to *
-def mul(x1, x2)
+def mul(x1, x2):
     print("your values multiplied is", x1 * x2)
 mul(3, 6)
 # create a function to %
