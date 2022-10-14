@@ -18,3 +18,7 @@
 - Encapsulation - Is a fundamental concept in OOP. It is the idea of bundling data and methods that work on that data within one unit. This is usually used to hide internal representaion, or state of an object from the outside. This is called information hiding
 - Inheritance - inherits methods from another class
 - Polymorphism - allows nuktiple data types
+
+OOP
+Diagram
+![](:\Users\moham\Documents\Spatraa\OOP\images\Object+Diagram+-+Example.jpg)
